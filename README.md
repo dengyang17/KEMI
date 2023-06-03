@@ -11,4 +11,22 @@ Under the 'blenderbot' directory,
 3. Run 'bash RUN/infer_strat.sh' to evaluate the model.
 
 ## Analysis of Mixed Initiative
-Under the 'eafr' directory, you can find the fingerprint of the analysis results on ESConv and EmpatheticDialogues. 
+Under the 'eafr' directory, you can find the fingerprint data of the analysis results on ESConv and EmpatheticDialogues. 
+
+
+## Citation
+If the code or data is used in your research, please star this repo and cite our paper as follows:
+```
+@article{DBLP:journals/corr/abs-2305-10172,
+  author       = {Yang Deng and
+                  Wenxuan Zhang and
+                  Yifei Yuan and
+                  Wai Lam},
+  title        = {Knowledge-enhanced Mixed-initiative Dialogue System for Emotional
+                  Support Conversations},
+  journal      = {CoRR},
+  volume       = {abs/2305.10172},
+  year         = {2023},
+  url          = {https://doi.org/10.48550/arXiv.2305.10172},
+}
+```
